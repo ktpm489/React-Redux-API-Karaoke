@@ -9,5 +9,4 @@ const songChangeReducer = (state = initialState.currentSongId, action) => {
     return state;
   }
 };
-
 export default songChangeReducer;
